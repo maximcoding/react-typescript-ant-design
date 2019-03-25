@@ -1,6 +1,6 @@
 ## Please notice
-config-overrides.js - overrides 'create-react-app zero webpack configuration'
-'src/styles-module.d.ts' , supports using less styles as modules in react components with tsx (typescript) extension !!
+config-overrides.js - extends 'create-react-app zero webpack configuration'
+'src/styles-module.d.ts' - supports using less styles as modules in react components with tsx (typescript) extension !!
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 Overriding webpack config with [customize-cra](https://github.com/arackaf/customize-cra)
