@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Overriding webpack config with [customize-cra](https://github.com/arackaf/customize-cra)
+
 ## Available Scripts
 
 In the project directory, you can run:
